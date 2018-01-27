@@ -1,0 +1,130 @@
+{
+
+        "portfolioName": "stores",
+
+        "createdUserID": "vankat",
+
+        "updatedUserID": "venkat",
+
+        "portfolioBpMapping": [
+
+            {
+
+                "portfolioBpId": {
+
+                    "portfolioId": 1,
+
+                    "bpId": 102
+
+                },
+
+                "bpName": "profile",
+
+                "createdUserID": "venkat",
+
+                "updatedUserID": "venkat",
+
+                "milestoneJobMapping": [
+
+                	{
+
+                		"milestoneJobId": {
+
+                			"milestoneId": 10,
+
+                			"jobID": 1001
+
+                		},
+
+                		"jobName": "job1",
+
+                		"createdUserID": "venkat",
+
+                		"updatedUserID": "venkat"
+
+                	},
+
+                		{
+
+                		"milestoneJobId": {
+
+                			"milestoneId": 20,
+
+                			"jobID": 1002
+
+                		},
+
+                		"jobName": "job2",
+
+                		"createdUserID": "venkat1.1",
+
+                		"updatedUserID": "venkat1.1"
+
+                	}
+
+                ]
+
+            },
+
+            {
+
+                "portfolioBpId": {
+
+                    "portfolioId": 1,
+
+                    "bpId": 101
+
+                },
+
+                "bpName": "orders",
+
+                "createdUserID": "ananth",
+
+                "updatedUserID": "ananth",
+
+                "milestoneJobMapping": [
+
+                	{
+
+                		"milestoneJobId": {
+
+                			"milestoneId": 20,
+
+                			"jobID": 1003
+
+                		},
+
+                		"jobName": "job3",
+
+                		"createdUserID": "ananth",
+
+                		"updatedUserID": "ananth"
+
+                	},
+
+                	{
+
+                		"milestoneJobId": {
+
+                			"milestoneId": 20,
+
+                			"jobID": 1004
+
+                		},
+
+                		"jobName": "job4",
+
+                		"createdUserID": "karthi",
+
+                		"updatedUserID": "karthi"
+
+                	}
+
+                ]
+
+            }
+
+        ]
+
+}
+

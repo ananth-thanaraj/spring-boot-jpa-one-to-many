@@ -1,0 +1,82 @@
+[
+    {
+        "portfolioId": 1,
+        "portfolioName": "stores",
+        "createdUserID": "vankat",
+        "updatedUserID": "venkat",
+        "createdTime": 1516988576081,
+        "updatedTime": 1516988576081,
+        "portfolioBpMapping": [
+            {
+                "portfolioBpId": {
+                    "portfolioId": 1,
+                    "bpId": 102
+                },
+                "bpName": "profile",
+                "createdUserID": "venkat",
+                "updatedUserID": "venkat",
+                "createdTime": 1516988576151,
+                "updatedTime": 1516988576151,
+                "milestoneJobMapping": [
+                    {
+                        "milestoneJobId": {
+                            "milestoneId": 10,
+                            "jobID": 1001
+                        },
+                        "jobName": "job1",
+                        "createdUserID": "venkat",
+                        "updatedUserID": "venkat",
+                        "createdTime": 1516988576167,
+                        "updatedTime": 1516988576167
+                    },
+                    {
+                        "milestoneJobId": {
+                            "milestoneId": 20,
+                            "jobID": 1002
+                        },
+                        "jobName": "job2",
+                        "createdUserID": "venkat1.1",
+                        "updatedUserID": "venkat1.1",
+                        "createdTime": 1516988576163,
+                        "updatedTime": 1516988576163
+                    }
+                ]
+            },
+            {
+                "portfolioBpId": {
+                    "portfolioId": 1,
+                    "bpId": 101
+                },
+                "bpName": "orders",
+                "createdUserID": "ananth",
+                "updatedUserID": "ananth",
+                "createdTime": 1516988576167,
+                "updatedTime": 1516988576167,
+                "milestoneJobMapping": [
+                    {
+                        "milestoneJobId": {
+                            "milestoneId": 20,
+                            "jobID": 1004
+                        },
+                        "jobName": "job4",
+                        "createdUserID": "karthi",
+                        "updatedUserID": "karthi",
+                        "createdTime": 1516988576171,
+                        "updatedTime": 1516988576171
+                    },
+                    {
+                        "milestoneJobId": {
+                            "milestoneId": 20,
+                            "jobID": 1003
+                        },
+                        "jobName": "job3",
+                        "createdUserID": "ananth",
+                        "updatedUserID": "ananth",
+                        "createdTime": 1516988576167,
+                        "updatedTime": 1516988576167
+                    }
+                ]
+            }
+        ]
+    }
+]
